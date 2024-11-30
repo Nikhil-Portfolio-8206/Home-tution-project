@@ -5,6 +5,10 @@
     background-color: lightpink;
     
 }
+#features{
+  /* background-color: aqua; */
+  background-color: white;
+}
 
 .navbar-brand{
     font-family: "Montserrat", serif;
@@ -23,6 +27,11 @@
 .container-fluid-custom{
     padding: 2% 5%;
 }
+.container-fluid-features{
+  padding:10% 0 10% 0;
+  text-align: center;
+}
+
 
 /* Download button */
 .download-button{
