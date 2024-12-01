@@ -58,6 +58,10 @@ h2{
   width: 15%;
   margin: 1%;
 }
+.carousel-item{
+
+  padding: 5%;
+}
 
 
 
@@ -73,6 +77,10 @@ background-color: white;
 }
 #testimonials{
   background-color: aqua;
-  padding: 10% 5% 10% 5%;
   text-align: center;
+}
+#payments{
+  background-color: wheat;
+  text-align: center;
+  padding-top: 5%;
 }
