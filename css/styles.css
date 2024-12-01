@@ -84,3 +84,11 @@ background-color: white;
   text-align: center;
   padding-top: 5%;
 }
+#pricing{
+  background: linear-gradient(70deg, #ff7eb3, #ff758c, #ffc46b, #fff6a9);
+}
+#Teacher-student{
+  padding: 3%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
