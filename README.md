@@ -1,1 +1,1 @@
-Home and online tution project
+Personalized tution connecting platform
